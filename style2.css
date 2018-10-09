@@ -1,0 +1,76 @@
+/*
+CSS for Blaise Pascal site
+*/
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #f2e3f2;
+	line-height: 125%;
+	padding: 15px;
+}
+
+h1 {
+	font-family: Garamond, Arial, Helvetica, sans-serif;
+	font-size: x-large;
+}
+
+#navigation {
+	font-size: small;
+}
+
+#references {
+	font-family: Arial, sans-serif;
+	font-size: medium;
+}
+
+#funfacts {
+	font-weight: bold;
+	font-size: small;
+}
+
+h2 {
+	color: Black;
+	font-size: medium;
+	font-weight: bold;
+}
+
+p {
+	font-size: small;
+	color: black;
+}
+
+sup {
+	font-size: x-small;
+	color; navy;
+}
+
+h1, h3 {
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+	background-color: teal;
+	color: black;
+}
+
+a {
+	font-weight: bold;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	text-decoration: italic;
+	color: white;
+	background-color: red;
+}
+
+a:active {
+	color: aqua;
+	background-color: navy;
+}
+
+
+

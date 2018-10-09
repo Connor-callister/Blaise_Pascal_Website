@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Blaise Pascal References</title>
+		<link href="style2.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body>
+		<div id="header">
+			<h1>The Life and Accomplishments of Blaise Pascal</h1>
+			<h2>An Overview of the Great French Scientist</h2>
+		</div><!-- end of header div -->
+		<div id="navigation">
+			<ul>
+				<li><a href="Pascal_home.html">Home</a></li>
+				<li><a href="Pascal_bio.html">Bio</a></li>
+				<li><a href="Pascal_funfacts.html">Fun Facts</a></li>
+				<li><a href="Pascal_references.html">References</a></li>
+			</ul>
+		</div><!-- end of navigation div -->
+		<h3>References and Resources</h3>
+		<p>These additional resources are excellent for helping further 
+			understand the material and provide more in depth analysis.</p>
+		<div id="references">
+			<ul>
+				<li>This <a href="https://en.wikipedia.org/wiki/Blaise_Pascal"><em>page</em></a> 
+					includes a brief description of the life and work of Psacal</li>
+				<li>This <a href="http://web.b.ebscohost.com.ezproxy.tmcc.edu:2048/ehost/pdfviewer/pdfviewer?vid=11&sid=214a9ca4-ecc3-4227-becd-d688b2d21c2e%40pdc-v-sessmgr04">
+					<em>page</em></a> discusses the influence of Pascal&#39;s geometrical 
+					theorems and discoveries and its application to modern mathematics.</li>
+				<li>This <a href="https://en.wikipedia.org/wiki/Pascal%27s_theorem"><em>page</em></a> 
+					takes a closer look at Pascal&#39;s theorem in geometry and the Pascal Line.</li>
+				<li>This <a href="http://history-computer.com/People/PascalBio.html"><em>article</em></a> 
+					is a brief biography of Pascal that covers more details on his personal 
+					life and follows a traditional chronological order.</li>
+				<li>This <a											href="http://web.a.ebscohost.com.ezproxy.tmcc.edu:2048/ehost/detail/detail?vid=6&sid=555bac90-00c8-45e9-b3aa-6d5279023a72%40sessionmgr4009&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1za		XRl#AN=1873941&db=f5h"><em>article</em></a> discusses Pascal&#39;s work on probability 
+					and game theory. It goes on to discuss Pascal&#39;s wager and the present 
+					applications of expected value theory that Pascal pioneered.</li>
+				<li><a href="https://www.alamy.com/stock-photo-portrait-of-the-scientist-philosopher-blaise-pascal-162743987.html">
+					<em>This is the link</em></a> for Pascal&#39;s portrait obtained through a goodle image 
+					search and used only for educational purposes.</li>
+				<li><a href="https://en.wikipedia.org/wiki/Pascal%27s_calculator#/media/File:Pascaline-CnAM_823-1-IMG_1506-black.jpg">
+					<em>This is the link</em></a> for the photo of one of Pascal&#39;s original 
+					Pascaline machines</li>
+		</div><!--end of references div-->

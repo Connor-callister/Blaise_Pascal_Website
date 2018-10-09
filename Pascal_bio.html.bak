@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Blaise Pascal Bio</title>
+	</head>
+	<body>
+		<div id="header">
+			<h1>The Life and Accomplishments of Blaise Pascal</h1>
+			<h2>An Overview of the Great French Scientist</h2>
+		</div><!-- end of header div -->
+		<div id="navigation">
+			<ul>
+				<li><a href="Pascal_home.html">Home</a></li>
+				<li><a href="Pascal_bio.html">Bio</a></li>
+				<li><a href="Pascal_funfacts.html">Fun Facts</a></li>
+				<li><a href="Pascal_references.html">References</a></li>
+			</ul>
+		</div><!-- end of navigation div -->
+		<h3>Blaise Pascal: A Brief Biography</h3>
+		<div id="bio">
+			<p>Blaise Pascal was a heavily influential figure during the French  Classical
+				Period in the mid-seventeenth century. He was passionate enough to pursue 
+				and write on topics ranging from geometry, statistics, fluid mechanics, 
+				and religion. Much of his work laid the foundation of several fields 
+				including probability theory, hydrodynamics, and mechanical calculation. 
+				Although he lived a relative short life, he filled it with a grand pursuit 
+				of knowledge that still resonates in many fields today.</p>
+			<p>Pascal was born in Clermont, France on June 19th, 1623. He was educated and 
+				raised by his father, a local judge, due to the passing of his mother when 
+				he was just three years old. From a young age he struggled with health 
+				issues and this would be a constant theme throughout his life. Despite 
+				these struggles, he gained early fame and notoriety for his research into 
+				projective geometry at only sixteen years old. This research was picked up 
+				by future mathematicians in the nineteenth century and led to the 
+				&#39;completed&#39; Pascal Mysticum in 1849. The first published diagram of this 
+				completed mysticum didn&#39;t appear until 1921 and was hand drawn. This 
+				mysticum in geometry shows how much his work could influence future	
+				generations of incredible thinkers.</p>
+			<p>His work on probability and game theory did not disappoint either. It was 
+				said that his initial endeavors into probability resulted from a friend 
+				gifting him a puzzle. Intrigued by it, this led him to try and understand 
+				other games mathematically. There was one problem that stood out to him. 
+				If two people are playing a winner-take-all dice game, but they get	
+				interrupted and must stop before finishing, how can you calculate how to 
+				split the rest of the pot? In 1654, he delved into the question with 
+				fellow mathematician Pierre de Fermat and this joint-pursuit led to the 
+				foundation of mathematical probability. Their work was monumental in the 
+				understanding of game theory and statistics. </p>
+			<p>Pascal also contributed to the physical sciences through his study on 
+				hydrodynamics. His research led him to the one of his most famous and 
+				lasting discoveries, Pascal&#39;s principle. This principle stated that 
+				regardless of where a pressure is applied to a fluid, that pressure will 
+				be equally transferred to a fluid so long as it is confined and at rest. 
+				This had lasting implications and led to the unit of pressure, pascals, to 
+				be named after him. His studies also led him to invent both the hydraulic 
+				press and the syringe. He was also fascinated with vacuums being created 
+				as the result of hydrostatic pressure, and this happened to be a rather 
+				controversial topic for the time. His thorough love and talent in this	
+				field and such a wide range of others continues to show the lasting impact 
+				Pascal has had on several aspects of the sciences.</p>
+			<p>While he was still a teenager, Pascal wanted to create a machine that could 
+				do arithmetic. This idea led to his invention of the calculator, and one 
+				of the closest things to a first computer. He tried to perfect it over 
+				several years and multiple failures, but he completed the calculator, 
+				known then as the Pascaline, with a few different designs.</p>
+			<p>Later in his life, Pascal began to pursue religion as a form of 
+				self-fulfillment both spiritual and intellectually. He wrote numerous works 
+				on theology, his most prominent, yet unfinished, being The Pensees. It was 
+				said that his spontaneous theological intrigue was sparked by a religious 
+				vision which Pascal documented in the Memorial. Some scholars dispute this 
+				and attribute it to a near-death experience, but not too much information 
+				seems to exist on the origins. Regardless of how Pascal&#39;s pursuit of 
+				religious enlightenment began, it is evident that he was deeply moved and 
+				motivated through his lasting works on theology and ethics. His religious 
+				views can be summarized by his response to a doctor trying to give him 
+				medicine stating simply that &#34;Sickness is the natural state of 
+				Christians.&#34; implying that you must also suffer to be able to feel joy.</p>
+			<p>His constant state of poor health had finally caught up with him and he 
+				passed in Paris in August of 1662. Pascal&#39;s varying contributions to the 
+				several fields mentioned has helped	maintain his legacy throughout the past 
+				few centuries. He both made crucial advancements for his time that also 
+				laid the groundwork for advancements in the following centuries. Pascal was 
+				an inventor, a scientist, an author, a preacher, a mathematician, an 
+				economist, and a devout man. Although he died at thirty-nine, he lived a 
+				full and diverse life.</p>
+		</div><!--end of bio div-->
+	</body>
+</html>
